@@ -1,6 +1,6 @@
 # 6070 CA04: Ensemble Models
 
-![alt text](image/Ensemble.jpg)
+![alt text](Ensemble.jpg)
 
 ## Objective
 The objective of this case is to use various ***Ensemble Models***, including Random Forest, Adaboost, Gradient Boosting, Extreme Gradient Boosting, to predict if a individual's income would be above or below $50,000 based on some attributes about them such as their race, sex, education and work class etc. We will also tune the hyperparameters to find the optimal model. And for hyperparameter tuning we will first do it manually, and then use GridSearchCV. 
