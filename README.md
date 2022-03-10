@@ -78,5 +78,5 @@ The following is the match of before and after:;
 
 
 # Runtime
-Without GridSearchCV: ~5 minutes
+Without GridSearchCV: ~5 minutes <br>
 With GridSearchCV: 50 minutes
